@@ -33,8 +33,8 @@ __MacOS:__
 
 ```
 1. Anwendung von https://github.com/jack-the-dvdripper/Pharma_Tox/releases herunterladen
-2. Anwendung im __FINDER__, mit gedrückter Ctrl Taste öffnen.
-3. Ausführung bestätigen (da ich kein verifizierter Entwickler bin :(( )
+2. Anwendung im __FINDER__ , mit gedrückter Ctrl Taste öffnen.
+3. Ausführung bestätigen (da ich kein verifizierter Entwickler bin :(( und auch niemals werde :) )
 ```
 
 __Windows:__
