@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Das zentrale Nervensystem</title>
+    <link>./post.html</link>
+    <description>Recent content in Posts on Das zentrale Nervensystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>MIT licensed by Johannes Hausmann, Shenaj Iseni, Emily Jung, Anne-Kathrin Schmidt, Alina Wilk</copyright>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. Einführung &amp; Grundlagen</title>
+      <link>./post/einfuhrung-grundlagen.html</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./post/einfuhrung-grundlagen.html</guid>
+      <description>1. Das Nervengewebe 1.1 Aufbau der Nerven Nervenzellen bestehen grundlegend aus einem Zellkörper, dem Soma, mit Zellkern und mehreren Fortsätzen. Der Hauptstrang, mit dem die Nervenzelle Erregungen zu anderen Zellen weiterleitet, wird Neurit oder auch Axon genannt. Die übrigen werden als Dendriten bezeichnet, hier docken zum Beispiel Fortsätze von anderen Nervenzellen an. Wie alle Zellen besitzen auch die Nervenfasern eine schützende Membran, sie ist zudem der wichtigste Bereich zur Reizweiterleitung.</description>
+    </item>
+    
+    <item>
+      <title>2. Anatomie des Gehirn</title>
+      <link>./post/gehirnr%C3%BCckenmark.html</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./post/gehirnr%C3%BCckenmark.html</guid>
+      <description>1. Gliederung des Nervensystems 1.1 Anatomisch Das Nervensystem gliedert sich anatomisch betrachtet in zwei Hauptbereiche. Zum einen das Zentrale Nervensystem (ZNS), welches sich aus Gehirn und Rückenmark zusammensetzt, die über den Hirnstamm miteinander verbunden sind. Das ZNS koordiniert Denk- und Handlungsprozesse. Zum Schutz schirmen Wirbelsäule und Schädel es nach außen ab. Der Liquor dient als zusätzliches Flüssigkeitskissen. Der zweite Bereich wird durch das periphere Nervensystem dargestellt. Es besteht aus vom Rückenmark ausgehenden Nervenfasern, die entweder Sinnesinformationen aufnehmen und über sensorische Fasern ans ZNS weiterleiten (afferent) oder Bewegungsimpulse vom ZNS über motorische Fasern ins Zielorgan leiten (efferent).</description>
+    </item>
+    
+    <item>
+      <title>3. Systeme des ZNS</title>
+      <link>./post/systeme_des_zns.html</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./post/systeme_des_zns.html</guid>
+      <description>3. Systeme im ZNS - Einleitung Die Studierenden erhalten in diesem Kapitel alle essenziellen Information über die physiologischen Grundlagen der Systeme, damit sie im Anschluss die Wirkung der Pharmaka, welche die Neuronen-und/oder Transmittersysteme beeinflussen, verstehen als auch in der Praxis anwenden können. Das dopaminerge, das glutamaterge, das GABAerge System und das glycerinerge System werden im folgendem erläutert.
+3.1. Dopaminerges System – Positives Belohnungssystem Lernziele:
+ Belohnungszentrum
+ Suchtentwicklung
+ Dopaminerge Neuronen und ihre Synthese</description>
+    </item>
+    
+    <item>
+      <title>4. Neurologische Störungen</title>
+      <link>./post/neurologische-st%C3%B6rungen.html</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>./post/neurologische-st%C3%B6rungen.html</guid>
+      <description>In den vorherigen Kapiteln haben die Studenten alles nötige zum Aufbau der Nervenzellen, die Weiterleitung und Potentialentstehung kennengelernt. In diesem wird nun auf die Anomalitäten im zentralen Nervensystem eingegangen, damit sind Störungen und Fehlfunktionen jeglicher Art im Nervensystem gemeint.
+Sind Störungen im zentralen Nervensystem überhaupt schlecht? Störungen in Gehirn- und Rückenmarksnervenzellen (also dem zentralen Nervensystem) können zu einem Kontrollverlust von der Motorik, zu einer verschlechterten Kontrolle des Zusammenspiels aller Systeme (Organsystem, Hormonregulierung, Kreislauf und Stoffwechsel), einer gestörten Verarbeitung von inneren und äußeren (Umwelt-)Signalen und zu einer Verschlechterung der kognitiven Funktionen führen.</description>
+    </item>
+    
+  </channel>
+</rss>

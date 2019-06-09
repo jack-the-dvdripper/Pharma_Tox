@@ -1,0 +1,44 @@
+{
+    "name": "Das_zentrale_Nervensystem",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "Das zentrale Nervensystem",
+    "main": "./main.js",
+    "scripts": {
+        "start": "electron .",
+        "postinstall": "electron-builder install-app-deps",
+        "pack": "electron-builder -mwl --dir",
+        "dist": "electron-builder -mwl"
+    },
+    "build": {
+        "appId": "com.electron.DZN",
+        "dmg": {
+            "contents": [
+                {
+                    "x": 110,
+                    "y": 150
+                },
+                {
+                    "x": 240,
+                    "y": 150,
+                    "type": "link",
+                    "path": "/Applications"
+                }
+            ]
+        },
+        "linux": {
+            "target": "AppImage"
+        },
+        "win": {
+            "target": "msi"
+        }
+
+    },
+    "devDependencies": {
+        "electron": "^4.1.4",
+        "electron-builder": "^20.40.2"
+    },
+    "dependencies": {
+        "app": "^0.1.0"
+    }
+}
